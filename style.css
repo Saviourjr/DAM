@@ -5,7 +5,7 @@
 }
 #banner{
     
-    background: linear-gradient(rgba(0,0,0,0.5),#006098),url(./assets/Survey.jpeg);
+    background: linear-gradient(rgba(0,0,0,0.5),#006098),url(./assets/Pictures/Survey.jpeg);
     background-size: cover;
     background-position: center;
   height: 100vh;
