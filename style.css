@@ -276,10 +276,12 @@ list-style: none;
         flex-basis: 100%;
         display: block;
     }
-    .services li{
+     .services li{
         flex-basis: 100%;
-        font-size: 20px;
+        font-size: 30px;
         gap: 9rem;
+      margin: 5px;
+      font-family: "Montserrat", sans-serif;
     }
 }
 /*CONTACT*/
